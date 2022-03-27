@@ -36,7 +36,7 @@ body{
     color: hsl(220, 15%, 55%);
     padding-top: 10px;
 }
-.foot{
+footer{
     position: absolute;
     bottom: 0;
 }
